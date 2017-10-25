@@ -1,0 +1,4 @@
+#Wed Aug 02 17:10:05 IST 2017
+base.0=/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_597b67b659aeea23b32023e14aa5230709362afe
+renamed.0=classes.dex
+file.0=/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_597b67b659aeea23b32023e14aa5230709362afe/classes.dex

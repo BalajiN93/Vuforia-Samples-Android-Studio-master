@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/src/main/res/drawable-ldpi/logo.png"
+    }
+]

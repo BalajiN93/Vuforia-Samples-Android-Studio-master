@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/src/main/java/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="/Users/administrator/Desktop/Android_Workspace/Vuforia-Samples-Android-Studio-master/app/build/intermediates/pre-dexed/debug/Vuforia_597b67b659aeea23b32023e14aa5230709362afe.jar" />
+    </item>
+
+</items>
